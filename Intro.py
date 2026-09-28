@@ -22,7 +22,7 @@ with col1:
  image = Image.open('Fruta Matcher.png')
  st.image(image, width=250)
  st.write("En la siguiente enlace usaremos una de las aplicaciones de Inteligencia Artificial") 
- url = "https://clasfruta-j3r3mywm6zkywfuynvlsej.streamlit.app/"
+ url = "https://imultimod.streamlit.app/"
  st.write(f"Texto a voz: [Enlace]({url})")
 
  st.subheader("Reconocimiento de Objetos")
