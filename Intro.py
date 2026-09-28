@@ -18,12 +18,12 @@ col1, col2, col3 = st.columns(3)
 
 with col1:
  
- st.subheader("Conversión de texto a voz")
+ st.subheader(""Fruta Matcher-Similitud por Características"")
  image = Image.open('Fruta Matcher.png')
  st.image(image, width=250)
  st.write("En la siguiente enlace usaremos una de las aplicaciones de Inteligencia Artificial") 
- url = "https://imultimod.streamlit.app/"
- st.write(f"Texto a voz: [Enlace]({url})")
+ url = "https://clasfruta-j3r3mywm6zkywfuynvlsej.streamlit.app/"
+ st.write(f" Similitud por Características": [Enlace]({url})")
 
  st.subheader("Reconocimiento de Objetos")
  image = Image.open('txt_to_audio.png')
