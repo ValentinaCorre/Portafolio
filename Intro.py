@@ -23,7 +23,7 @@ with col1:
  st.image(image, width=250)
  st.write("En la siguiente enlace usaremos una de las aplicaciones de Inteligencia Artificial") 
  url = "https://clasfruta-j3r3mywm6zkywfuynvlsej.streamlit.app/"
- st.write(f"clasfruta: [Enlace]({url})")
+ st.write(f"Texto a voz: [Enlace]({url})")
 
  st.subheader("Reconocimiento de Objetos")
  image = Image.open('txt_to_audio.png')
