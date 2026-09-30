@@ -22,7 +22,7 @@ with col1:
  image = Image.open('Fruta Matcher.png')
  st.image(image, width=190)
  st.write("En la siguiente enlace usaremos una de las aplicaciones creadas en streamlit") 
- url = "https://programacion-avanzada-actividad-clase-jq6yobt3sfba2urcfygbb4.streamlit.app/"
+ url = "https://clasfruta-j3r3mywm6zkywfuynvlsej.streamlit.app/"
  st.write(f"App #1: [Enlace]({url})")
 
  st.subheader("Reconocimiento de Objetos")
