@@ -19,7 +19,7 @@ col1, col2, col3 = st.columns(3)
 with col1:
  
  st.subheader("App de frutas")
- image = Image.open('Frutas.jpg')
+ image = Image.open('Fruta Matcher.png')
  st.image(image, width=190)
  st.write("En la siguiente enlace usaremos una de las aplicaciones creadas en streamlit") 
  url = "https://programacion-avanzada-actividad-clase-jq6yobt3sfba2urcfygbb4.streamlit.app/"
