@@ -71,7 +71,7 @@ with col3:
  st.write(f"RAG: [Enlace]({url})")
 
  st.subheader("SERIES DE TIEMPO")
- image = Image.open('OIG4.jpg')
+ image = Image.open('SENSOR LOT.jpg')
  st.image(image, width=200)
  st.write("En la siguiente enlace veremos la capacidad de análisis en Imágenes.") 
  url = "https://seriesdetiempo-byt63yu4tgqxmemjcblpmt.streamlit.app/"
