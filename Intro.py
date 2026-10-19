@@ -47,7 +47,7 @@ with col2:
  url = "https://predicciontermica-gp5jtqguymftxxm9fksywq.streamlit.app/"
  st.write(f"Voz a texto: [Enlace]({url})")
 
- st.subheader("Análisis de Datos")
+ st.subheader("REGRESIÓN LOGISTICA")
  image = Image.open('data_analisis.png')
  st.image(image, width=190)
  st.write("En la siguiente enlace veremos como se pueden analizar datos usando agentes.") 
