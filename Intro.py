@@ -48,10 +48,10 @@ with col2:
  st.write(f"Voz a texto: [Enlace]({url})")
 
  st.subheader("REGRESIÓN LOGISTICA")
- image = Image.open('data_analisis.png')
+ image = Image.open('regresion logistica.jpg')
  st.image(image, width=190)
  st.write("En la siguiente enlace veremos como se pueden analizar datos usando agentes.") 
- url = "https://dataagente.streamlit.app/"
+ url = "https://decisionesbinarias-jv5xnfswrouhngb6pjkxes.streamlit.app/"
  st.write(f"Datos: [Enlace]({url})")
 
  st.subheader("Trasnscriptor Audio y Video")
