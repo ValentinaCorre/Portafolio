@@ -78,7 +78,7 @@ with col3:
  st.write(f"Vision: [Enlace]({url})")
  
  st.subheader("PREPARACION Y ESTRUCTURA")
- image = Image.open('OIG6.jpg')
+ image = Image.open('PREPARACION.jpg')
  st.image(image, width=200)
  st.write("En la siguiente enlace veremos la capacidad de interacción con el mundo físico.") 
  url = "https://seriesdetiempo-byt63yu4tgqxmemjcblpmt.streamlit.app/
