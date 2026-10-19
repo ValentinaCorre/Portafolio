@@ -54,7 +54,7 @@ with col2:
  url = "https://decisionesbinarias-jv5xnfswrouhngb6pjkxes.streamlit.app/"
  st.write(f"Datos: [Enlace]({url})")
 
- st.subheader("Trasnscriptor Audio y Video")
+ st.subheader("NIVEL DEL AGUA")
  image = Image.open('OIG3.jpg')
  st.image(image, width=200)
  st.write("En la siguiente enlace veremos como realizamos transcripciones de audio/video.") 
