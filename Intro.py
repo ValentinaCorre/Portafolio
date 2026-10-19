@@ -41,7 +41,7 @@ with col1:
 
 with col2: 
  st.subheader("PREDICTOR TÉRMICO")
- image = Image.open('OIG8.jpg')
+ image = Image.open('PREDICTOR TERMICO.png')
  st.image(image, width=200)
  st.write("En la siguiente veremos una aplicación que usa la conversión de voz a texto.") 
  url = "https://predicciontermica-gp5jtqguymftxxm9fksywq.streamlit.app/"
