@@ -74,14 +74,14 @@ with col3:
  image = Image.open('OIG4.jpg')
  st.image(image, width=200)
  st.write("En la siguiente enlace veremos la capacidad de análisis en Imágenes.") 
- url = "https://vision2-gpt4o.streamlit.app/"
+ url = "https://seriesdetiempo-byt63yu4tgqxmemjcblpmt.streamlit.app/"
  st.write(f"Vision: [Enlace]({url})")
  
  st.subheader("PREPARACION Y ESTRUCTURA")
  image = Image.open('OIG6.jpg')
  st.image(image, width=200)
  st.write("En la siguiente enlace veremos la capacidad de interacción con el mundo físico.") 
- url = "https://vision2-gpt4o.streamlit.app/"
+ url = "https://seriesdetiempo-byt63yu4tgqxmemjcblpmt.streamlit.app/
  st.write(f"Vision: [Enlace]({url})")
 
 
