@@ -55,10 +55,10 @@ with col2:
  st.write(f"Datos: [Enlace]({url})")
 
  st.subheader("NIVEL DEL AGUA")
- image = Image.open('OIG3.jpg')
+ image = Image.open('HIDROSANCARLOS.png')
  st.image(image, width=200)
  st.write("En la siguiente enlace veremos como realizamos transcripciones de audio/video.") 
- url = "https://transcript-whisper.streamlit.app/"
+ url = "https://yzgs7j6f9yxxulwrrhjf8h.streamlit.app/"
  st.write(f"Transcriptor: [Enlace]({url})")
 
 
