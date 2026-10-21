@@ -81,7 +81,7 @@ with col3:
  image = Image.open('PREPARACION.jpg')
  st.image(image, width=200)
  st.write("En la siguiente enlace veremos la capacidad de interacción con el mundo físico.") 
- url = "https://seriesdetiempo-byt63yu4tgqxmemjcblpmt.streamlit.app/
+ url = "https://seriesdetiempo-byt63yu4tgqxmemjcblpmt.streamlit.app/"
  st.write(f"Vision: [Enlace]({url})")
 
 
